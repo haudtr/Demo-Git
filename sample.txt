@@ -1,2 +1,5 @@
 
+
 Đến cả con khỉ cũng được lệnh GIT
+add: Đăng ký thay đổi trong index
+
